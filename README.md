@@ -1,0 +1,2 @@
+# APS360-Project
+Generative Adversarial Networks, also called GAN, are widely used in the ﬁeld of image generation, sequence generation and so on. We can use GAN to do many amazing works, one of them is “style transform”, it means the network can change a given picture into a picture of another style while keeping the feature elements in the original image unchanged. In this project, we are required to transform a real picture containing natural scenery into Chinese painting style.
